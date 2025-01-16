@@ -1,0 +1,76 @@
+Ranking,playerName,Position,overallRating,potential,age,club,nationality
+1,J. Oblak,POR,91,93,27,Atlético Madrid,Slovenia
+2,M. ter Stegen,POR,90,93,28,FC Barcelona,Germany
+3,Alisson,POR,90,91,27,Liverpool,Brazil
+4,T. Courtois,POR,89,90,28,Real Madrid,Belgium
+5,M. Neuer,POR,89,89,34,FC Bayern München,Germany
+1,V. van Dijk,DFC,90,91,28,Liverpool,Netherlands
+2,Sergio Ramos,DFC,89,89,34,Real Madrid,Spain
+3,K. Koulibaly,DFC,88,88,29,Napoli,Senegal
+4,A. Laporte,DFC,87,90,26,Manchester City,France
+5,G. Chiellini,DFC,87,87,35,Juventus,Italy
+1,J. Kimmich,LTD,88,90,25,FC Bayern München,Germany
+2,T. Alexander-Arnold,LTD,87,92,21,Liverpool,England
+3,Carvajal,LTD,86,86,28,Real Madrid,Spain
+4,Ricardo Pereira,LTD,85,86,26,Leicester City,Portugal
+5,K. Walker,LTD,85,85,30,Manchester City,England
+1,A. Robertson,LTI,87,89,26,Liverpool,Scotland
+2,Jordi Alba,LTI,86,86,31,FC Barcelona,Spain
+3,Alex Sandro,LTI,85,85,29,Juventus,Brazil
+4,Grimaldo,LTI,84,88,24,SL Benfica,Spain
+5,Saúl,LTI,84,87,25,Atlético Madrid,Spain
+1,A. Wan-Bissaka,CAD,83,88,22,Manchester United,England
+2,Mário Fernandes,CAD,82,82,29,PFC CSKA Moscow,Russia
+3,M. Doherty,CAD,81,81,28,Tottenham Hotspur,Republic of Ireland
+4,N. Mukiele,CAD,80,87,22,RB Leipzig,France
+5,L. Klostermann,CAD,80,85,24,RB Leipzig,Germany
+1,F. Kostić,CAI,83,83,27,Eintracht Frankfurt,Serbia
+2,M. Halstenberg,CAI,82,82,28,RB Leipzig,Germany
+3,Jonny,CAI,81,84,26,Wolverhampton Wanderers,Spain
+4,Adryan Zonta,CAI,81,81,28,São Paulo,Brazil
+5,Marcos Alonso,CAI,81,81,29,Chelsea,Spain
+1,Casemiro,MCD,89,89,28,Real Madrid,Brazil
+2,J. Kimmich,MCD,88,90,25,FC Bayern München,Germany
+3,N. Kanté,MCD,88,88,29,Chelsea,France
+4,Fabinho,MCD,87,89,26,Liverpool,Brazil
+5,Sergio Busquets,MCD,87,87,31,FC Barcelona,Spain
+1,Neymar Jr,MC,91,91,28,Paris Saint-Germain,Brazil
+2,K. De Bruyne,MC,91,91,29,Manchester City,Belgium
+3,Casemiro,MC,89,89,28,Real Madrid,Brazil
+4,J. Kimmich,MC,88,90,25,FC Bayern München,Germany
+5,P. Dybala,MC,88,89,26,Juventus,Argentina
+1,J. Sancho,MD,87,93,20,Borussia Dortmund,England
+2,T. Müller,MD,86,86,30,FC Bayern München,Germany
+3,K. Havertz,MD,85,93,21,Chelsea,Germany
+4,S. Gnabry,MD,85,87,24,FC Bayern München,Germany
+5,Koke,MD,85,85,28,Atlético Madrid,Spain
+1,J. Sancho,MI,87,93,20,Borussia Dortmund,England
+2,H. Son,MI,87,87,27,Tottenham Hotspur,Korea Republic
+3,M. Rashford,MI,85,91,22,Manchester United,England
+4,L. Sané,MI,85,90,24,FC Bayern München,Germany
+5,S. Gnabry,MI,85,87,24,FC Bayern München,Germany
+1,Neymar Jr,MCO,91,91,28,Paris Saint-Germain,Brazil
+2,K. De Bruyne,MCO,91,91,29,Manchester City,Belgium
+3,P. Dybala,MCO,88,89,26,Juventus,Argentina
+4,J. Sancho,MCO,87,93,20,Borussia Dortmund,England
+5,Bruno Fernandes,MCO,87,90,25,Manchester United,Portugal
+1,L. Messi,MP,93,93,33,FC Barcelona,Argentina
+2,K. Benzema,MP,89,89,32,Real Madrid,France
+3,P. Dybala,MP,88,89,26,Juventus,Argentina
+4,H. Son,MP,87,87,27,Tottenham Hotspur,Korea Republic
+5,Roberto Firmino,MP,87,87,28,Liverpool,Brazil
+1,L. Messi,ED,93,93,33,FC Barcelona,Argentina
+2,K. Mbappé,ED,90,95,21,Paris Saint-Germain,France
+3,M. Salah,ED,90,90,28,Liverpool,Egypt
+4,R. Sterling,ED,88,90,25,Manchester City,England
+5,Bernardo Silva,ED,87,88,25,Manchester City,Portugal
+1,Cristiano Ronaldo,EI,92,92,35,Juventus,Portugal
+2,Neymar Jr,EI,91,91,28,Paris Saint-Germain,Brazil
+3,K. Mbappé,EI,90,95,21,Paris Saint-Germain,France
+4,S. Mané,EI,90,90,28,Liverpool,Senegal
+5,R. Sterling,EI,88,90,25,Manchester City,England
+1,L. Messi,DC,93,93,33,FC Barcelona,Argentina
+2,Cristiano Ronaldo,DC,92,92,35,Juventus,Portugal
+3,R. Lewandowski,DC,91,91,31,FC Bayern München,Poland
+4,K. Mbappé,DC,90,95,21,Paris Saint-Germain,France
+5,K. Benzema,DC,89,89,32,Real Madrid,France

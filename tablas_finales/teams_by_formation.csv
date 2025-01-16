@@ -1,0 +1,551 @@
+playerName,overallRating,potential,age,value,wage,club,nationality,photoUrl,PlayingPosition,Formation,Criterion
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,4231,Mejores jugadores
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,LTD,4231,Mejores jugadores
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,4231,Mejores jugadores
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,4231,Mejores jugadores
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,4231,Mejores jugadores
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,4231,Mejores jugadores
+N. Kanté,88,88,29,78000000,190000,Chelsea,France,https://cdn.sofifa.com/players/215/914/21_60.png,MCD,4231,Mejores jugadores
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,4231,Mejores jugadores
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,4231,Mejores jugadores
+H. Son,87,87,27,85000000,165000,Tottenham Hotspur,Korea Republic,https://cdn.sofifa.com/players/200/104/21_60.png,MI,4231,Mejores jugadores
+Cristiano Ronaldo,92,92,35,63000000,220000,Juventus,Portugal,https://cdn.sofifa.com/players/020/801/21_60.png,DC,4231,Mejores jugadores
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,4231,Mayor Potencial
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,4231,Mayor Potencial
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,4231,Mayor Potencial
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,4231,Mayor Potencial
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,4231,Mayor Potencial
+S. Tonali,77,91,20,24000000,25000,Milan,Italy,https://cdn.sofifa.com/players/241/096/21_60.png,MCD,4231,Mayor Potencial
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,4231,Mayor Potencial
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,4231,Mayor Potencial
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,4231,Mayor Potencial
+M. Rashford,85,91,22,86500000,150000,Manchester United,England,https://cdn.sofifa.com/players/231/677/21_60.png,MI,4231,Mayor Potencial
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,4231,Mayor Potencial
+G. Donnarumma,85,92,21,93500000,34000,Milan,Italy,https://cdn.sofifa.com/players/230/621/21_60.png,POR,4231,Mejores Jóvenes Sub21
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,4231,Mejores Jóvenes Sub21
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,4231,Mejores Jóvenes Sub21
+B. Kamara,79,84,20,24000000,29000,Olympique de Marseille,France,https://cdn.sofifa.com/players/236/987/21_60.png,DFC,4231,Mejores Jóvenes Sub21
+A. Davies,81,89,19,53000000,40000,FC Bayern München,Canada,https://cdn.sofifa.com/players/234/396/21_60.png,LTI,4231,Mejores Jóvenes Sub21
+Rosberto Dourado,81,81,20,25500000,31000,Atlético Mineiro,Brazil,https://cdn.sofifa.com/players/230/258/21_60.png,MCD,4231,Mejores Jóvenes Sub21
+Melvin Parrela,79,79,20,17500000,19000,Coritiba,Brazil,https://cdn.sofifa.com/players/230/251/21_60.png,MCD,4231,Mejores Jóvenes Sub21
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,4231,Mejores Jóvenes Sub21
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MP,4231,Mejores Jóvenes Sub21
+Ferran Torres,81,89,20,56500000,95000,Manchester City,Spain,https://cdn.sofifa.com/players/241/461/21_60.png,MI,4231,Mejores Jóvenes Sub21
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,4231,Mejores Jóvenes Sub21
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,4231,Jugadores Más Caros
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,4231,Jugadores Más Caros
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,4231,Jugadores Más Caros
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,4231,Jugadores Más Caros
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,4231,Jugadores Más Caros
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,4231,Jugadores Más Caros
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,4231,Jugadores Más Caros
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,4231,Jugadores Más Caros
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MP,4231,Jugadores Más Caros
+M. Rashford,85,91,22,86500000,150000,Manchester United,England,https://cdn.sofifa.com/players/231/677/21_60.png,MI,4231,Jugadores Más Caros
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,4231,Jugadores Más Caros
+M. ter Stegen,90,93,28,110000000,260000,FC Barcelona,Germany,https://cdn.sofifa.com/players/192/448/21_60.png,POR,4231,Los Que Más Ganan
+Carvajal,86,86,28,61500000,230000,Real Madrid,Spain,https://cdn.sofifa.com/players/204/963/21_60.png,LTD,4231,Los Que Más Ganan
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,4231,Los Que Más Ganan
+R. Varane,86,88,27,72500000,220000,Real Madrid,France,https://cdn.sofifa.com/players/201/535/21_60.png,DFC,4231,Los Que Más Ganan
+Jordi Alba,86,86,31,49500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/332/21_60.png,LTI,4231,Los Que Más Ganan
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,4231,Los Que Más Ganan
+Sergio Busquets,87,87,31,56000000,240000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/511/21_60.png,MCD,4231,Los Que Más Ganan
+R. Mahrez,85,85,29,53000000,210000,Manchester City,Algeria,https://cdn.sofifa.com/players/204/485/21_60.png,MD,4231,Los Que Más Ganan
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,4231,Los Que Más Ganan
+H. Son,87,87,27,85000000,165000,Tottenham Hotspur,Korea Republic,https://cdn.sofifa.com/players/200/104/21_60.png,MI,4231,Los Que Más Ganan
+K. Benzema,89,89,32,83500000,350000,Real Madrid,France,https://cdn.sofifa.com/players/165/153/21_60.png,DC,4231,Los Que Más Ganan
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,433,Mejores jugadores
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,LTD,433,Mejores jugadores
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,433,Mejores jugadores
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,433,Mejores jugadores
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,433,Mejores jugadores
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,433,Mejores jugadores
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,433,Mejores jugadores
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,433,Mejores jugadores
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,433,Mejores jugadores
+H. Son,87,87,27,85000000,165000,Tottenham Hotspur,Korea Republic,https://cdn.sofifa.com/players/200/104/21_60.png,MI,433,Mejores jugadores
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,433,Mejores jugadores
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,433,Mayor Potencial
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,433,Mayor Potencial
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,433,Mayor Potencial
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,433,Mayor Potencial
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,433,Mayor Potencial
+S. Tonali,77,91,20,24000000,25000,Milan,Italy,https://cdn.sofifa.com/players/241/096/21_60.png,MCD,433,Mayor Potencial
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,433,Mayor Potencial
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,433,Mayor Potencial
+A. Davies,81,89,19,53000000,40000,FC Bayern München,Canada,https://cdn.sofifa.com/players/234/396/21_60.png,MD,433,Mayor Potencial
+M. Rashford,85,91,22,86500000,150000,Manchester United,England,https://cdn.sofifa.com/players/231/677/21_60.png,MI,433,Mayor Potencial
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,433,Mayor Potencial
+G. Donnarumma,85,92,21,93500000,34000,Milan,Italy,https://cdn.sofifa.com/players/230/621/21_60.png,POR,433,Mejores Jóvenes Sub21
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,433,Mejores Jóvenes Sub21
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,433,Mejores Jóvenes Sub21
+B. Kamara,79,84,20,24000000,29000,Olympique de Marseille,France,https://cdn.sofifa.com/players/236/987/21_60.png,DFC,433,Mejores Jóvenes Sub21
+A. Davies,81,89,19,53000000,40000,FC Bayern München,Canada,https://cdn.sofifa.com/players/234/396/21_60.png,LTI,433,Mejores Jóvenes Sub21
+Rosberto Dourado,81,81,20,25500000,31000,Atlético Mineiro,Brazil,https://cdn.sofifa.com/players/230/258/21_60.png,MCD,433,Mejores Jóvenes Sub21
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,433,Mejores Jóvenes Sub21
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,433,Mejores Jóvenes Sub21
+A. Hakimi,83,88,21,56000000,90000,Inter,Morocco,https://cdn.sofifa.com/players/235/212/21_60.png,MD,433,Mejores Jóvenes Sub21
+Ferran Torres,81,89,20,56500000,95000,Manchester City,Spain,https://cdn.sofifa.com/players/241/461/21_60.png,MI,433,Mejores Jóvenes Sub21
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,433,Mejores Jóvenes Sub21
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,433,Jugadores Más Caros
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,433,Jugadores Más Caros
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,433,Jugadores Más Caros
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,433,Jugadores Más Caros
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,433,Jugadores Más Caros
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,433,Jugadores Más Caros
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,433,Jugadores Más Caros
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,433,Jugadores Más Caros
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,433,Jugadores Más Caros
+M. Rashford,85,91,22,86500000,150000,Manchester United,England,https://cdn.sofifa.com/players/231/677/21_60.png,MI,433,Jugadores Más Caros
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,433,Jugadores Más Caros
+M. ter Stegen,90,93,28,110000000,260000,FC Barcelona,Germany,https://cdn.sofifa.com/players/192/448/21_60.png,POR,433,Los Que Más Ganan
+Carvajal,86,86,28,61500000,230000,Real Madrid,Spain,https://cdn.sofifa.com/players/204/963/21_60.png,LTD,433,Los Que Más Ganan
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,433,Los Que Más Ganan
+R. Varane,86,88,27,72500000,220000,Real Madrid,France,https://cdn.sofifa.com/players/201/535/21_60.png,DFC,433,Los Que Más Ganan
+Jordi Alba,86,86,31,49500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/332/21_60.png,LTI,433,Los Que Más Ganan
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,433,Los Que Más Ganan
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,433,Los Que Más Ganan
+T. Kroos,88,88,30,87500000,310000,Real Madrid,Germany,https://cdn.sofifa.com/players/182/521/21_60.png,MC,433,Los Que Más Ganan
+R. Mahrez,85,85,29,53000000,210000,Manchester City,Algeria,https://cdn.sofifa.com/players/204/485/21_60.png,MD,433,Los Que Más Ganan
+H. Son,87,87,27,85000000,165000,Tottenham Hotspur,Korea Republic,https://cdn.sofifa.com/players/200/104/21_60.png,MI,433,Los Que Más Ganan
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,433,Los Que Más Ganan
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,4312,Mejores jugadores
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,LTD,4312,Mejores jugadores
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,4312,Mejores jugadores
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,4312,Mejores jugadores
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,4312,Mejores jugadores
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,4312,Mejores jugadores
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,4312,Mejores jugadores
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,4312,Mejores jugadores
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,4312,Mejores jugadores
+Cristiano Ronaldo,92,92,35,63000000,220000,Juventus,Portugal,https://cdn.sofifa.com/players/020/801/21_60.png,DC,4312,Mejores jugadores
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,4312,Mejores jugadores
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,4312,Mayor Potencial
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,4312,Mayor Potencial
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,4312,Mayor Potencial
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,4312,Mayor Potencial
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,4312,Mayor Potencial
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,4312,Mayor Potencial
+S. Tonali,77,91,20,24000000,25000,Milan,Italy,https://cdn.sofifa.com/players/241/096/21_60.png,MCD,4312,Mayor Potencial
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,4312,Mayor Potencial
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,4312,Mayor Potencial
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,4312,Mayor Potencial
+João Félix,81,93,20,62500000,52000,Atlético Madrid,Portugal,https://cdn.sofifa.com/players/242/444/21_60.png,DC,4312,Mayor Potencial
+G. Donnarumma,85,92,21,93500000,34000,Milan,Italy,https://cdn.sofifa.com/players/230/621/21_60.png,POR,4312,Mejores Jóvenes Sub21
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,4312,Mejores Jóvenes Sub21
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,4312,Mejores Jóvenes Sub21
+B. Kamara,79,84,20,24000000,29000,Olympique de Marseille,France,https://cdn.sofifa.com/players/236/987/21_60.png,DFC,4312,Mejores Jóvenes Sub21
+A. Davies,81,89,19,53000000,40000,FC Bayern München,Canada,https://cdn.sofifa.com/players/234/396/21_60.png,LTI,4312,Mejores Jóvenes Sub21
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,4312,Mejores Jóvenes Sub21
+Rosberto Dourado,81,81,20,25500000,31000,Atlético Mineiro,Brazil,https://cdn.sofifa.com/players/230/258/21_60.png,MCD,4312,Mejores Jóvenes Sub21
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,4312,Mejores Jóvenes Sub21
+João Félix,81,93,20,62500000,52000,Atlético Madrid,Portugal,https://cdn.sofifa.com/players/242/444/21_60.png,MP,4312,Mejores Jóvenes Sub21
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,4312,Mejores Jóvenes Sub21
+E. Haaland,84,92,19,92000000,56000,Borussia Dortmund,Norway,https://cdn.sofifa.com/players/239/085/21_60.png,DC,4312,Mejores Jóvenes Sub21
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,4312,Jugadores Más Caros
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,4312,Jugadores Más Caros
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,4312,Jugadores Más Caros
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,4312,Jugadores Más Caros
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,4312,Jugadores Más Caros
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,4312,Jugadores Más Caros
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,4312,Jugadores Más Caros
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,4312,Jugadores Más Caros
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MP,4312,Jugadores Más Caros
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,4312,Jugadores Más Caros
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,4312,Jugadores Más Caros
+M. ter Stegen,90,93,28,110000000,260000,FC Barcelona,Germany,https://cdn.sofifa.com/players/192/448/21_60.png,POR,4312,Los Que Más Ganan
+Carvajal,86,86,28,61500000,230000,Real Madrid,Spain,https://cdn.sofifa.com/players/204/963/21_60.png,LTD,4312,Los Que Más Ganan
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,4312,Los Que Más Ganan
+R. Varane,86,88,27,72500000,220000,Real Madrid,France,https://cdn.sofifa.com/players/201/535/21_60.png,DFC,4312,Los Que Más Ganan
+Jordi Alba,86,86,31,49500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/332/21_60.png,LTI,4312,Los Que Más Ganan
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,4312,Los Que Más Ganan
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,4312,Los Que Más Ganan
+T. Kroos,88,88,30,87500000,310000,Real Madrid,Germany,https://cdn.sofifa.com/players/182/521/21_60.png,MC,4312,Los Que Más Ganan
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,4312,Los Que Más Ganan
+K. Benzema,89,89,32,83500000,350000,Real Madrid,France,https://cdn.sofifa.com/players/165/153/21_60.png,DC,4312,Los Que Más Ganan
+E. Hazard,88,88,29,89500000,350000,Real Madrid,Belgium,https://cdn.sofifa.com/players/183/277/21_60.png,DC,4312,Los Que Más Ganan
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,424,Mejores jugadores
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,LTD,424,Mejores jugadores
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,424,Mejores jugadores
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,424,Mejores jugadores
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,424,Mejores jugadores
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,424,Mejores jugadores
+N. Kanté,88,88,29,78000000,190000,Chelsea,France,https://cdn.sofifa.com/players/215/914/21_60.png,MCD,424,Mejores jugadores
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,424,Mejores jugadores
+H. Son,87,87,27,85000000,165000,Tottenham Hotspur,Korea Republic,https://cdn.sofifa.com/players/200/104/21_60.png,MI,424,Mejores jugadores
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,424,Mejores jugadores
+Cristiano Ronaldo,92,92,35,63000000,220000,Juventus,Portugal,https://cdn.sofifa.com/players/020/801/21_60.png,DC,424,Mejores jugadores
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,424,Mayor Potencial
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,424,Mayor Potencial
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,424,Mayor Potencial
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,424,Mayor Potencial
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,424,Mayor Potencial
+S. Tonali,77,91,20,24000000,25000,Milan,Italy,https://cdn.sofifa.com/players/241/096/21_60.png,MCD,424,Mayor Potencial
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,424,Mayor Potencial
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,424,Mayor Potencial
+M. Rashford,85,91,22,86500000,150000,Manchester United,England,https://cdn.sofifa.com/players/231/677/21_60.png,MI,424,Mayor Potencial
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,424,Mayor Potencial
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,424,Mayor Potencial
+G. Donnarumma,85,92,21,93500000,34000,Milan,Italy,https://cdn.sofifa.com/players/230/621/21_60.png,POR,424,Mejores Jóvenes Sub21
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,424,Mejores Jóvenes Sub21
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,424,Mejores Jóvenes Sub21
+B. Kamara,79,84,20,24000000,29000,Olympique de Marseille,France,https://cdn.sofifa.com/players/236/987/21_60.png,DFC,424,Mejores Jóvenes Sub21
+A. Davies,81,89,19,53000000,40000,FC Bayern München,Canada,https://cdn.sofifa.com/players/234/396/21_60.png,LTI,424,Mejores Jóvenes Sub21
+Rosberto Dourado,81,81,20,25500000,31000,Atlético Mineiro,Brazil,https://cdn.sofifa.com/players/230/258/21_60.png,MCD,424,Mejores Jóvenes Sub21
+Melvin Parrela,79,79,20,17500000,19000,Coritiba,Brazil,https://cdn.sofifa.com/players/230/251/21_60.png,MCD,424,Mejores Jóvenes Sub21
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,424,Mejores Jóvenes Sub21
+Ferran Torres,81,89,20,56500000,95000,Manchester City,Spain,https://cdn.sofifa.com/players/241/461/21_60.png,MI,424,Mejores Jóvenes Sub21
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,424,Mejores Jóvenes Sub21
+E. Haaland,84,92,19,92000000,56000,Borussia Dortmund,Norway,https://cdn.sofifa.com/players/239/085/21_60.png,DC,424,Mejores Jóvenes Sub21
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,424,Jugadores Más Caros
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,424,Jugadores Más Caros
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,424,Jugadores Más Caros
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,424,Jugadores Más Caros
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,424,Jugadores Más Caros
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,424,Jugadores Más Caros
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,424,Jugadores Más Caros
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,424,Jugadores Más Caros
+M. Rashford,85,91,22,86500000,150000,Manchester United,England,https://cdn.sofifa.com/players/231/677/21_60.png,MI,424,Jugadores Más Caros
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,424,Jugadores Más Caros
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,424,Jugadores Más Caros
+M. ter Stegen,90,93,28,110000000,260000,FC Barcelona,Germany,https://cdn.sofifa.com/players/192/448/21_60.png,POR,424,Los Que Más Ganan
+Carvajal,86,86,28,61500000,230000,Real Madrid,Spain,https://cdn.sofifa.com/players/204/963/21_60.png,LTD,424,Los Que Más Ganan
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,424,Los Que Más Ganan
+R. Varane,86,88,27,72500000,220000,Real Madrid,France,https://cdn.sofifa.com/players/201/535/21_60.png,DFC,424,Los Que Más Ganan
+Jordi Alba,86,86,31,49500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/332/21_60.png,LTI,424,Los Que Más Ganan
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,424,Los Que Más Ganan
+Sergio Busquets,87,87,31,56000000,240000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/511/21_60.png,MCD,424,Los Que Más Ganan
+R. Mahrez,85,85,29,53000000,210000,Manchester City,Algeria,https://cdn.sofifa.com/players/204/485/21_60.png,MD,424,Los Que Más Ganan
+H. Son,87,87,27,85000000,165000,Tottenham Hotspur,Korea Republic,https://cdn.sofifa.com/players/200/104/21_60.png,MI,424,Los Que Más Ganan
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,424,Los Que Más Ganan
+K. Benzema,89,89,32,83500000,350000,Real Madrid,France,https://cdn.sofifa.com/players/165/153/21_60.png,DC,424,Los Que Más Ganan
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,4222,Mejores jugadores
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,LTD,4222,Mejores jugadores
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,4222,Mejores jugadores
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,4222,Mejores jugadores
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,4222,Mejores jugadores
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,4222,Mejores jugadores
+N. Kanté,88,88,29,78000000,190000,Chelsea,France,https://cdn.sofifa.com/players/215/914/21_60.png,MCD,4222,Mejores jugadores
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,4222,Mejores jugadores
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,4222,Mejores jugadores
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,4222,Mejores jugadores
+Cristiano Ronaldo,92,92,35,63000000,220000,Juventus,Portugal,https://cdn.sofifa.com/players/020/801/21_60.png,DC,4222,Mejores jugadores
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,4222,Mayor Potencial
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,4222,Mayor Potencial
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,4222,Mayor Potencial
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,4222,Mayor Potencial
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,4222,Mayor Potencial
+S. Tonali,77,91,20,24000000,25000,Milan,Italy,https://cdn.sofifa.com/players/241/096/21_60.png,MCD,4222,Mayor Potencial
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,4222,Mayor Potencial
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,4222,Mayor Potencial
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,4222,Mayor Potencial
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,4222,Mayor Potencial
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,4222,Mayor Potencial
+G. Donnarumma,85,92,21,93500000,34000,Milan,Italy,https://cdn.sofifa.com/players/230/621/21_60.png,POR,4222,Mejores Jóvenes Sub21
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,4222,Mejores Jóvenes Sub21
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,4222,Mejores Jóvenes Sub21
+B. Kamara,79,84,20,24000000,29000,Olympique de Marseille,France,https://cdn.sofifa.com/players/236/987/21_60.png,DFC,4222,Mejores Jóvenes Sub21
+A. Davies,81,89,19,53000000,40000,FC Bayern München,Canada,https://cdn.sofifa.com/players/234/396/21_60.png,LTI,4222,Mejores Jóvenes Sub21
+Rosberto Dourado,81,81,20,25500000,31000,Atlético Mineiro,Brazil,https://cdn.sofifa.com/players/230/258/21_60.png,MCD,4222,Mejores Jóvenes Sub21
+Melvin Parrela,79,79,20,17500000,19000,Coritiba,Brazil,https://cdn.sofifa.com/players/230/251/21_60.png,MCD,4222,Mejores Jóvenes Sub21
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,4222,Mejores Jóvenes Sub21
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,4222,Mejores Jóvenes Sub21
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,4222,Mejores Jóvenes Sub21
+E. Haaland,84,92,19,92000000,56000,Borussia Dortmund,Norway,https://cdn.sofifa.com/players/239/085/21_60.png,DC,4222,Mejores Jóvenes Sub21
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,4222,Jugadores Más Caros
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,4222,Jugadores Más Caros
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,4222,Jugadores Más Caros
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,4222,Jugadores Más Caros
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,4222,Jugadores Más Caros
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,4222,Jugadores Más Caros
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,4222,Jugadores Más Caros
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,4222,Jugadores Más Caros
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,4222,Jugadores Más Caros
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,4222,Jugadores Más Caros
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,4222,Jugadores Más Caros
+M. ter Stegen,90,93,28,110000000,260000,FC Barcelona,Germany,https://cdn.sofifa.com/players/192/448/21_60.png,POR,4222,Los Que Más Ganan
+Carvajal,86,86,28,61500000,230000,Real Madrid,Spain,https://cdn.sofifa.com/players/204/963/21_60.png,LTD,4222,Los Que Más Ganan
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,4222,Los Que Más Ganan
+R. Varane,86,88,27,72500000,220000,Real Madrid,France,https://cdn.sofifa.com/players/201/535/21_60.png,DFC,4222,Los Que Más Ganan
+Jordi Alba,86,86,31,49500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/332/21_60.png,LTI,4222,Los Que Más Ganan
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,4222,Los Que Más Ganan
+Sergio Busquets,87,87,31,56000000,240000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/511/21_60.png,MCD,4222,Los Que Más Ganan
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,4222,Los Que Más Ganan
+T. Kroos,88,88,30,87500000,310000,Real Madrid,Germany,https://cdn.sofifa.com/players/182/521/21_60.png,MC,4222,Los Que Más Ganan
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,4222,Los Que Más Ganan
+K. Benzema,89,89,32,83500000,350000,Real Madrid,France,https://cdn.sofifa.com/players/165/153/21_60.png,DC,4222,Los Que Más Ganan
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,3511,Mejores jugadores
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,3511,Mejores jugadores
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,3511,Mejores jugadores
+K. Koulibaly,88,88,29,76500000,140000,Napoli,Senegal,https://cdn.sofifa.com/players/201/024/21_60.png,DFC,3511,Mejores jugadores
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,LTD,3511,Mejores jugadores
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,3511,Mejores jugadores
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,3511,Mejores jugadores
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,3511,Mejores jugadores
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,3511,Mejores jugadores
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,3511,Mejores jugadores
+Cristiano Ronaldo,92,92,35,63000000,220000,Juventus,Portugal,https://cdn.sofifa.com/players/020/801/21_60.png,DC,3511,Mejores jugadores
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,3511,Mayor Potencial
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,3511,Mayor Potencial
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,3511,Mayor Potencial
+A. Laporte,87,90,26,92500000,200000,Manchester City,France,https://cdn.sofifa.com/players/212/218/21_60.png,DFC,3511,Mayor Potencial
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,3511,Mayor Potencial
+S. Tonali,77,91,20,24000000,25000,Milan,Italy,https://cdn.sofifa.com/players/241/096/21_60.png,MCD,3511,Mayor Potencial
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,3511,Mayor Potencial
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,3511,Mayor Potencial
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,3511,Mayor Potencial
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,3511,Mayor Potencial
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,3511,Mayor Potencial
+G. Donnarumma,85,92,21,93500000,34000,Milan,Italy,https://cdn.sofifa.com/players/230/621/21_60.png,POR,3511,Mejores Jóvenes Sub21
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,3511,Mejores Jóvenes Sub21
+B. Kamara,79,84,20,24000000,29000,Olympique de Marseille,France,https://cdn.sofifa.com/players/236/987/21_60.png,DFC,3511,Mejores Jóvenes Sub21
+D. Upamecano,79,90,21,37000000,36000,RB Leipzig,France,https://cdn.sofifa.com/players/229/558/21_60.png,DFC,3511,Mejores Jóvenes Sub21
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,3511,Mejores Jóvenes Sub21
+Rosberto Dourado,81,81,20,25500000,31000,Atlético Mineiro,Brazil,https://cdn.sofifa.com/players/230/258/21_60.png,MCD,3511,Mejores Jóvenes Sub21
+A. Davies,81,89,19,53000000,40000,FC Bayern München,Canada,https://cdn.sofifa.com/players/234/396/21_60.png,LTI,3511,Mejores Jóvenes Sub21
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,3511,Mejores Jóvenes Sub21
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,3511,Mejores Jóvenes Sub21
+João Félix,81,93,20,62500000,52000,Atlético Madrid,Portugal,https://cdn.sofifa.com/players/242/444/21_60.png,MP,3511,Mejores Jóvenes Sub21
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,3511,Mejores Jóvenes Sub21
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,3511,Jugadores Más Caros
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,3511,Jugadores Más Caros
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,3511,Jugadores Más Caros
+A. Laporte,87,90,26,92500000,200000,Manchester City,France,https://cdn.sofifa.com/players/212/218/21_60.png,DFC,3511,Jugadores Más Caros
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,3511,Jugadores Más Caros
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,3511,Jugadores Más Caros
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,3511,Jugadores Más Caros
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,3511,Jugadores Más Caros
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,3511,Jugadores Más Caros
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MP,3511,Jugadores Más Caros
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,3511,Jugadores Más Caros
+M. ter Stegen,90,93,28,110000000,260000,FC Barcelona,Germany,https://cdn.sofifa.com/players/192/448/21_60.png,POR,3511,Los Que Más Ganan
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,3511,Los Que Más Ganan
+R. Varane,86,88,27,72500000,220000,Real Madrid,France,https://cdn.sofifa.com/players/201/535/21_60.png,DFC,3511,Los Que Más Ganan
+Piqué,86,86,33,32500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/152/729/21_60.png,DFC,3511,Los Que Más Ganan
+Carvajal,86,86,28,61500000,230000,Real Madrid,Spain,https://cdn.sofifa.com/players/204/963/21_60.png,LTD,3511,Los Que Más Ganan
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,3511,Los Que Más Ganan
+Jordi Alba,86,86,31,49500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/332/21_60.png,LTI,3511,Los Que Más Ganan
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,3511,Los Que Más Ganan
+T. Kroos,88,88,30,87500000,310000,Real Madrid,Germany,https://cdn.sofifa.com/players/182/521/21_60.png,MC,3511,Los Que Más Ganan
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,3511,Los Que Más Ganan
+K. Benzema,89,89,32,83500000,350000,Real Madrid,France,https://cdn.sofifa.com/players/165/153/21_60.png,DC,3511,Los Que Más Ganan
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,343,Mejores jugadores
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,343,Mejores jugadores
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,343,Mejores jugadores
+K. Koulibaly,88,88,29,76500000,140000,Napoli,Senegal,https://cdn.sofifa.com/players/201/024/21_60.png,DFC,343,Mejores jugadores
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,LTD,343,Mejores jugadores
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,343,Mejores jugadores
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,343,Mejores jugadores
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,343,Mejores jugadores
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,ED,343,Mejores jugadores
+Cristiano Ronaldo,92,92,35,63000000,220000,Juventus,Portugal,https://cdn.sofifa.com/players/020/801/21_60.png,EI,343,Mejores jugadores
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,343,Mejores jugadores
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,343,Mayor Potencial
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,343,Mayor Potencial
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,343,Mayor Potencial
+A. Laporte,87,90,26,92500000,200000,Manchester City,France,https://cdn.sofifa.com/players/212/218/21_60.png,DFC,343,Mayor Potencial
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,343,Mayor Potencial
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,343,Mayor Potencial
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,343,Mayor Potencial
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,343,Mayor Potencial
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,ED,343,Mayor Potencial
+Vinícius Jr.,80,93,19,50000000,95000,Real Madrid,Brazil,https://cdn.sofifa.com/players/238/794/21_60.png,EI,343,Mayor Potencial
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,343,Mayor Potencial
+G. Donnarumma,85,92,21,93500000,34000,Milan,Italy,https://cdn.sofifa.com/players/230/621/21_60.png,POR,343,Mejores Jóvenes Sub21
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,343,Mejores Jóvenes Sub21
+B. Kamara,79,84,20,24000000,29000,Olympique de Marseille,France,https://cdn.sofifa.com/players/236/987/21_60.png,DFC,343,Mejores Jóvenes Sub21
+D. Upamecano,79,90,21,37000000,36000,RB Leipzig,France,https://cdn.sofifa.com/players/229/558/21_60.png,DFC,343,Mejores Jóvenes Sub21
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,343,Mejores Jóvenes Sub21
+A. Davies,81,89,19,53000000,40000,FC Bayern München,Canada,https://cdn.sofifa.com/players/234/396/21_60.png,LTI,343,Mejores Jóvenes Sub21
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,343,Mejores Jóvenes Sub21
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,343,Mejores Jóvenes Sub21
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,ED,343,Mejores Jóvenes Sub21
+M. Diaby,81,88,20,51000000,54000,Bayer 04 Leverkusen,France,https://cdn.sofifa.com/players/241/852/21_60.png,EI,343,Mejores Jóvenes Sub21
+E. Haaland,84,92,19,92000000,56000,Borussia Dortmund,Norway,https://cdn.sofifa.com/players/239/085/21_60.png,DC,343,Mejores Jóvenes Sub21
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,343,Jugadores Más Caros
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,343,Jugadores Más Caros
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,343,Jugadores Más Caros
+A. Laporte,87,90,26,92500000,200000,Manchester City,France,https://cdn.sofifa.com/players/212/218/21_60.png,DFC,343,Jugadores Más Caros
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,343,Jugadores Más Caros
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,343,Jugadores Más Caros
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,343,Jugadores Más Caros
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,343,Jugadores Más Caros
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,ED,343,Jugadores Más Caros
+S. Mané,90,90,28,120500000,250000,Liverpool,Senegal,https://cdn.sofifa.com/players/208/722/21_60.png,EI,343,Jugadores Más Caros
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,343,Jugadores Más Caros
+M. ter Stegen,90,93,28,110000000,260000,FC Barcelona,Germany,https://cdn.sofifa.com/players/192/448/21_60.png,POR,343,Los Que Más Ganan
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,343,Los Que Más Ganan
+R. Varane,86,88,27,72500000,220000,Real Madrid,France,https://cdn.sofifa.com/players/201/535/21_60.png,DFC,343,Los Que Más Ganan
+Piqué,86,86,33,32500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/152/729/21_60.png,DFC,343,Los Que Más Ganan
+Carvajal,86,86,28,61500000,230000,Real Madrid,Spain,https://cdn.sofifa.com/players/204/963/21_60.png,LTD,343,Los Que Más Ganan
+Jordi Alba,86,86,31,49500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/332/21_60.png,LTI,343,Los Que Más Ganan
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,343,Los Que Más Ganan
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MC,343,Los Que Más Ganan
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,ED,343,Los Que Más Ganan
+E. Hazard,88,88,29,89500000,350000,Real Madrid,Belgium,https://cdn.sofifa.com/players/183/277/21_60.png,EI,343,Los Que Más Ganan
+K. Benzema,89,89,32,83500000,350000,Real Madrid,France,https://cdn.sofifa.com/players/165/153/21_60.png,DC,343,Los Que Más Ganan
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,3412,Mejores jugadores
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,3412,Mejores jugadores
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,3412,Mejores jugadores
+K. Koulibaly,88,88,29,76500000,140000,Napoli,Senegal,https://cdn.sofifa.com/players/201/024/21_60.png,DFC,3412,Mejores jugadores
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,LTD,3412,Mejores jugadores
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,3412,Mejores jugadores
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,3412,Mejores jugadores
+H. Son,87,87,27,85000000,165000,Tottenham Hotspur,Korea Republic,https://cdn.sofifa.com/players/200/104/21_60.png,MI,3412,Mejores jugadores
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,3412,Mejores jugadores
+Cristiano Ronaldo,92,92,35,63000000,220000,Juventus,Portugal,https://cdn.sofifa.com/players/020/801/21_60.png,DC,3412,Mejores jugadores
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,3412,Mejores jugadores
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,3412,Mayor Potencial
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,3412,Mayor Potencial
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,3412,Mayor Potencial
+A. Laporte,87,90,26,92500000,200000,Manchester City,France,https://cdn.sofifa.com/players/212/218/21_60.png,DFC,3412,Mayor Potencial
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,3412,Mayor Potencial
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,3412,Mayor Potencial
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,3412,Mayor Potencial
+M. Rashford,85,91,22,86500000,150000,Manchester United,England,https://cdn.sofifa.com/players/231/677/21_60.png,MI,3412,Mayor Potencial
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,3412,Mayor Potencial
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,3412,Mayor Potencial
+João Félix,81,93,20,62500000,52000,Atlético Madrid,Portugal,https://cdn.sofifa.com/players/242/444/21_60.png,DC,3412,Mayor Potencial
+G. Donnarumma,85,92,21,93500000,34000,Milan,Italy,https://cdn.sofifa.com/players/230/621/21_60.png,POR,3412,Mejores Jóvenes Sub21
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,3412,Mejores Jóvenes Sub21
+B. Kamara,79,84,20,24000000,29000,Olympique de Marseille,France,https://cdn.sofifa.com/players/236/987/21_60.png,DFC,3412,Mejores Jóvenes Sub21
+D. Upamecano,79,90,21,37000000,36000,RB Leipzig,France,https://cdn.sofifa.com/players/229/558/21_60.png,DFC,3412,Mejores Jóvenes Sub21
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,3412,Mejores Jóvenes Sub21
+A. Davies,81,89,19,53000000,40000,FC Bayern München,Canada,https://cdn.sofifa.com/players/234/396/21_60.png,LTI,3412,Mejores Jóvenes Sub21
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,3412,Mejores Jóvenes Sub21
+Ferran Torres,81,89,20,56500000,95000,Manchester City,Spain,https://cdn.sofifa.com/players/241/461/21_60.png,MI,3412,Mejores Jóvenes Sub21
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MP,3412,Mejores Jóvenes Sub21
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,3412,Mejores Jóvenes Sub21
+E. Haaland,84,92,19,92000000,56000,Borussia Dortmund,Norway,https://cdn.sofifa.com/players/239/085/21_60.png,DC,3412,Mejores Jóvenes Sub21
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,3412,Jugadores Más Caros
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,3412,Jugadores Más Caros
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,3412,Jugadores Más Caros
+A. Laporte,87,90,26,92500000,200000,Manchester City,France,https://cdn.sofifa.com/players/212/218/21_60.png,DFC,3412,Jugadores Más Caros
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,3412,Jugadores Más Caros
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,3412,Jugadores Más Caros
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,3412,Jugadores Más Caros
+M. Rashford,85,91,22,86500000,150000,Manchester United,England,https://cdn.sofifa.com/players/231/677/21_60.png,MI,3412,Jugadores Más Caros
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MP,3412,Jugadores Más Caros
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,3412,Jugadores Más Caros
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,3412,Jugadores Más Caros
+M. ter Stegen,90,93,28,110000000,260000,FC Barcelona,Germany,https://cdn.sofifa.com/players/192/448/21_60.png,POR,3412,Los Que Más Ganan
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,3412,Los Que Más Ganan
+R. Varane,86,88,27,72500000,220000,Real Madrid,France,https://cdn.sofifa.com/players/201/535/21_60.png,DFC,3412,Los Que Más Ganan
+Piqué,86,86,33,32500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/152/729/21_60.png,DFC,3412,Los Que Más Ganan
+Carvajal,86,86,28,61500000,230000,Real Madrid,Spain,https://cdn.sofifa.com/players/204/963/21_60.png,LTD,3412,Los Que Más Ganan
+Jordi Alba,86,86,31,49500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/332/21_60.png,LTI,3412,Los Que Más Ganan
+R. Mahrez,85,85,29,53000000,210000,Manchester City,Algeria,https://cdn.sofifa.com/players/204/485/21_60.png,MD,3412,Los Que Más Ganan
+H. Son,87,87,27,85000000,165000,Tottenham Hotspur,Korea Republic,https://cdn.sofifa.com/players/200/104/21_60.png,MI,3412,Los Que Más Ganan
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,MP,3412,Los Que Más Ganan
+K. Benzema,89,89,32,83500000,350000,Real Madrid,France,https://cdn.sofifa.com/players/165/153/21_60.png,DC,3412,Los Que Más Ganan
+E. Hazard,88,88,29,89500000,350000,Real Madrid,Belgium,https://cdn.sofifa.com/players/183/277/21_60.png,DC,3412,Los Que Más Ganan
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,532,Mejores jugadores
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,LTD,532,Mejores jugadores
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,532,Mejores jugadores
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,532,Mejores jugadores
+K. Koulibaly,88,88,29,76500000,140000,Napoli,Senegal,https://cdn.sofifa.com/players/201/024/21_60.png,DFC,532,Mejores jugadores
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,532,Mejores jugadores
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,532,Mejores jugadores
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,532,Mejores jugadores
+H. Son,87,87,27,85000000,165000,Tottenham Hotspur,Korea Republic,https://cdn.sofifa.com/players/200/104/21_60.png,MI,532,Mejores jugadores
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,532,Mejores jugadores
+Cristiano Ronaldo,92,92,35,63000000,220000,Juventus,Portugal,https://cdn.sofifa.com/players/020/801/21_60.png,DC,532,Mejores jugadores
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,532,Mayor Potencial
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,532,Mayor Potencial
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,532,Mayor Potencial
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,532,Mayor Potencial
+A. Laporte,87,90,26,92500000,200000,Manchester City,France,https://cdn.sofifa.com/players/212/218/21_60.png,DFC,532,Mayor Potencial
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,532,Mayor Potencial
+S. Tonali,77,91,20,24000000,25000,Milan,Italy,https://cdn.sofifa.com/players/241/096/21_60.png,MCD,532,Mayor Potencial
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,532,Mayor Potencial
+M. Rashford,85,91,22,86500000,150000,Manchester United,England,https://cdn.sofifa.com/players/231/677/21_60.png,MI,532,Mayor Potencial
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,532,Mayor Potencial
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,532,Mayor Potencial
+G. Donnarumma,85,92,21,93500000,34000,Milan,Italy,https://cdn.sofifa.com/players/230/621/21_60.png,POR,532,Mejores Jóvenes Sub21
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,532,Mejores Jóvenes Sub21
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,532,Mejores Jóvenes Sub21
+B. Kamara,79,84,20,24000000,29000,Olympique de Marseille,France,https://cdn.sofifa.com/players/236/987/21_60.png,DFC,532,Mejores Jóvenes Sub21
+D. Upamecano,79,90,21,37000000,36000,RB Leipzig,France,https://cdn.sofifa.com/players/229/558/21_60.png,DFC,532,Mejores Jóvenes Sub21
+A. Davies,81,89,19,53000000,40000,FC Bayern München,Canada,https://cdn.sofifa.com/players/234/396/21_60.png,LTI,532,Mejores Jóvenes Sub21
+Rosberto Dourado,81,81,20,25500000,31000,Atlético Mineiro,Brazil,https://cdn.sofifa.com/players/230/258/21_60.png,MCD,532,Mejores Jóvenes Sub21
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,532,Mejores Jóvenes Sub21
+Ferran Torres,81,89,20,56500000,95000,Manchester City,Spain,https://cdn.sofifa.com/players/241/461/21_60.png,MI,532,Mejores Jóvenes Sub21
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,532,Mejores Jóvenes Sub21
+E. Haaland,84,92,19,92000000,56000,Borussia Dortmund,Norway,https://cdn.sofifa.com/players/239/085/21_60.png,DC,532,Mejores Jóvenes Sub21
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,532,Jugadores Más Caros
+T. Alexander-Arnold,87,92,21,114000000,110000,Liverpool,England,https://cdn.sofifa.com/players/231/281/21_60.png,LTD,532,Jugadores Más Caros
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,532,Jugadores Más Caros
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,532,Jugadores Más Caros
+A. Laporte,87,90,26,92500000,200000,Manchester City,France,https://cdn.sofifa.com/players/212/218/21_60.png,DFC,532,Jugadores Más Caros
+A. Robertson,87,89,26,90500000,155000,Liverpool,Scotland,https://cdn.sofifa.com/players/216/267/21_60.png,LTI,532,Jugadores Más Caros
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,532,Jugadores Más Caros
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MD,532,Jugadores Más Caros
+M. Rashford,85,91,22,86500000,150000,Manchester United,England,https://cdn.sofifa.com/players/231/677/21_60.png,MI,532,Jugadores Más Caros
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,532,Jugadores Más Caros
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,532,Jugadores Más Caros
+M. ter Stegen,90,93,28,110000000,260000,FC Barcelona,Germany,https://cdn.sofifa.com/players/192/448/21_60.png,POR,532,Los Que Más Ganan
+Carvajal,86,86,28,61500000,230000,Real Madrid,Spain,https://cdn.sofifa.com/players/204/963/21_60.png,LTD,532,Los Que Más Ganan
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,532,Los Que Más Ganan
+R. Varane,86,88,27,72500000,220000,Real Madrid,France,https://cdn.sofifa.com/players/201/535/21_60.png,DFC,532,Los Que Más Ganan
+Piqué,86,86,33,32500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/152/729/21_60.png,DFC,532,Los Que Más Ganan
+Jordi Alba,86,86,31,49500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/189/332/21_60.png,LTI,532,Los Que Más Ganan
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,532,Los Que Más Ganan
+R. Mahrez,85,85,29,53000000,210000,Manchester City,Algeria,https://cdn.sofifa.com/players/204/485/21_60.png,MD,532,Los Que Más Ganan
+H. Son,87,87,27,85000000,165000,Tottenham Hotspur,Korea Republic,https://cdn.sofifa.com/players/200/104/21_60.png,MI,532,Los Que Más Ganan
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,532,Los Que Más Ganan
+K. Benzema,89,89,32,83500000,350000,Real Madrid,France,https://cdn.sofifa.com/players/165/153/21_60.png,DC,532,Los Que Más Ganan
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,31222,Mejores jugadores
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,31222,Mejores jugadores
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,31222,Mejores jugadores
+K. Koulibaly,88,88,29,76500000,140000,Napoli,Senegal,https://cdn.sofifa.com/players/201/024/21_60.png,DFC,31222,Mejores jugadores
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,31222,Mejores jugadores
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,31222,Mejores jugadores
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,31222,Mejores jugadores
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,ED,31222,Mejores jugadores
+Cristiano Ronaldo,92,92,35,63000000,220000,Juventus,Portugal,https://cdn.sofifa.com/players/020/801/21_60.png,EI,31222,Mejores jugadores
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,31222,Mejores jugadores
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,DC,31222,Mejores jugadores
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,31222,Mayor Potencial
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,31222,Mayor Potencial
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,31222,Mayor Potencial
+A. Laporte,87,90,26,92500000,200000,Manchester City,France,https://cdn.sofifa.com/players/212/218/21_60.png,DFC,31222,Mayor Potencial
+S. Tonali,77,91,20,24000000,25000,Milan,Italy,https://cdn.sofifa.com/players/241/096/21_60.png,MCD,31222,Mayor Potencial
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,31222,Mayor Potencial
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,31222,Mayor Potencial
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,ED,31222,Mayor Potencial
+Vinícius Jr.,80,93,19,50000000,95000,Real Madrid,Brazil,https://cdn.sofifa.com/players/238/794/21_60.png,EI,31222,Mayor Potencial
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,DC,31222,Mayor Potencial
+João Félix,81,93,20,62500000,52000,Atlético Madrid,Portugal,https://cdn.sofifa.com/players/242/444/21_60.png,DC,31222,Mayor Potencial
+G. Donnarumma,85,92,21,93500000,34000,Milan,Italy,https://cdn.sofifa.com/players/230/621/21_60.png,POR,31222,Mejores Jóvenes Sub21
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,31222,Mejores Jóvenes Sub21
+B. Kamara,79,84,20,24000000,29000,Olympique de Marseille,France,https://cdn.sofifa.com/players/236/987/21_60.png,DFC,31222,Mejores Jóvenes Sub21
+D. Upamecano,79,90,21,37000000,36000,RB Leipzig,France,https://cdn.sofifa.com/players/229/558/21_60.png,DFC,31222,Mejores Jóvenes Sub21
+Rosberto Dourado,81,81,20,25500000,31000,Atlético Mineiro,Brazil,https://cdn.sofifa.com/players/230/258/21_60.png,MCD,31222,Mejores Jóvenes Sub21
+J. Sancho,87,93,20,124000000,82000,Borussia Dortmund,England,https://cdn.sofifa.com/players/233/049/21_60.png,MC,31222,Mejores Jóvenes Sub21
+K. Havertz,85,93,21,121000000,105000,Chelsea,Germany,https://cdn.sofifa.com/players/235/790/21_60.png,MC,31222,Mejores Jóvenes Sub21
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,ED,31222,Mejores Jóvenes Sub21
+M. Diaby,81,88,20,51000000,54000,Bayer 04 Leverkusen,France,https://cdn.sofifa.com/players/241/852/21_60.png,EI,31222,Mejores Jóvenes Sub21
+E. Haaland,84,92,19,92000000,56000,Borussia Dortmund,Norway,https://cdn.sofifa.com/players/239/085/21_60.png,DC,31222,Mejores Jóvenes Sub21
+João Félix,81,93,20,62500000,52000,Atlético Madrid,Portugal,https://cdn.sofifa.com/players/242/444/21_60.png,DC,31222,Mejores Jóvenes Sub21
+J. Oblak,91,93,27,120000000,125000,Atlético Madrid,Slovenia,https://cdn.sofifa.com/players/200/389/21_60.png,POR,31222,Jugadores Más Caros
+V. van Dijk,90,91,28,113000000,210000,Liverpool,Netherlands,https://cdn.sofifa.com/players/203/376/21_60.png,DFC,31222,Jugadores Más Caros
+M. de Ligt,85,92,20,99000000,81000,Juventus,Netherlands,https://cdn.sofifa.com/players/235/243/21_60.png,DFC,31222,Jugadores Más Caros
+A. Laporte,87,90,26,92500000,200000,Manchester City,France,https://cdn.sofifa.com/players/212/218/21_60.png,DFC,31222,Jugadores Más Caros
+J. Kimmich,88,90,25,103000000,145000,FC Bayern München,Germany,https://cdn.sofifa.com/players/212/622/21_60.png,MCD,31222,Jugadores Más Caros
+Neymar Jr,91,91,28,132000000,270000,Paris Saint-Germain,Brazil,https://cdn.sofifa.com/players/190/871/21_60.png,MC,31222,Jugadores Más Caros
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,31222,Jugadores Más Caros
+K. Mbappé,90,95,21,185500000,160000,Paris Saint-Germain,France,https://cdn.sofifa.com/players/231/747/21_60.png,ED,31222,Jugadores Más Caros
+S. Mané,90,90,28,120500000,250000,Liverpool,Senegal,https://cdn.sofifa.com/players/208/722/21_60.png,EI,31222,Jugadores Más Caros
+R. Lewandowski,91,91,31,111000000,240000,FC Bayern München,Poland,https://cdn.sofifa.com/players/188/545/21_60.png,DC,31222,Jugadores Más Caros
+H. Kane,88,89,26,109000000,220000,Tottenham Hotspur,England,https://cdn.sofifa.com/players/202/126/21_60.png,DC,31222,Jugadores Más Caros
+M. ter Stegen,90,93,28,110000000,260000,FC Barcelona,Germany,https://cdn.sofifa.com/players/192/448/21_60.png,POR,31222,Los Que Más Ganan
+Sergio Ramos,89,89,34,33500000,300000,Real Madrid,Spain,https://cdn.sofifa.com/players/155/862/21_60.png,DFC,31222,Los Que Más Ganan
+R. Varane,86,88,27,72500000,220000,Real Madrid,France,https://cdn.sofifa.com/players/201/535/21_60.png,DFC,31222,Los Que Más Ganan
+Piqué,86,86,33,32500000,220000,FC Barcelona,Spain,https://cdn.sofifa.com/players/152/729/21_60.png,DFC,31222,Los Que Más Ganan
+Casemiro,89,89,28,90500000,310000,Real Madrid,Brazil,https://cdn.sofifa.com/players/200/145/21_60.png,MCD,31222,Los Que Más Ganan
+K. De Bruyne,91,91,29,129000000,370000,Manchester City,Belgium,https://cdn.sofifa.com/players/192/985/21_60.png,MC,31222,Los Que Más Ganan
+T. Kroos,88,88,30,87500000,310000,Real Madrid,Germany,https://cdn.sofifa.com/players/182/521/21_60.png,MC,31222,Los Que Más Ganan
+L. Messi,93,93,33,103500000,560000,FC Barcelona,Argentina,https://cdn.sofifa.com/players/158/023/21_60.png,ED,31222,Los Que Más Ganan
+E. Hazard,88,88,29,89500000,350000,Real Madrid,Belgium,https://cdn.sofifa.com/players/183/277/21_60.png,EI,31222,Los Que Más Ganan
+K. Benzema,89,89,32,83500000,350000,Real Madrid,France,https://cdn.sofifa.com/players/165/153/21_60.png,DC,31222,Los Que Más Ganan
+S. Agüero,89,89,32,83500000,300000,Manchester City,Argentina,https://cdn.sofifa.com/players/153/079/21_60.png,DC,31222,Los Que Más Ganan

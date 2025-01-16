@@ -1,0 +1,171 @@
+Ranking,playerName,bestPosition,Attribute,Score,club,nationality
+1,K. De Bruyne,MCO,Crossing,94,Manchester City,Belgium
+2,T. Alexander-Arnold,LTD,Crossing,93,Liverpool,England
+3,Pedro León,MD,Crossing,92,SD Eibar,Spain
+4,J. Kimmich,MCD,Crossing,91,FC Bayern München,Germany
+5,A. Robertson,LTI,Crossing,90,Liverpool,Scotland
+1,L. Messi,ED,Finishing,95,FC Barcelona,Argentina
+1,Cristiano Ronaldo,DC,Finishing,95,Juventus,Portugal
+3,R. Lewandowski,DC,Finishing,94,FC Bayern München,Poland
+3,H. Kane,DC,Finishing,94,Tottenham Hotspur,England
+3,S. Agüero,DC,Finishing,94,Manchester City,Argentina
+1,L. de Jong,DC,Heading Accuracy,93,Sevilla FC,Netherlands
+1,L. Pavoletti,DC,Heading Accuracy,93,Cagliari,Italy
+3,B. Dost,DC,Heading Accuracy,92,Eintracht Frankfurt,Netherlands
+3,M. Fellaini,DFC,Heading Accuracy,92,Shandong Luneng TaiShan FC,Belgium
+3,Sergio Ramos,DFC,Heading Accuracy,92,Real Madrid,Spain
+1,K. De Bruyne,MCO,Short Passing,94,Manchester City,Belgium
+2,T. Kroos,MC,Short Passing,93,Real Madrid,Germany
+3,David Silva,MCO,Short Passing,92,Real Sociedad,Spain
+3,Parejo,MC,Short Passing,92,Villarreal CF,Spain
+5,L. Messi,ED,Short Passing,91,FC Barcelona,Argentina
+1,L. Suárez,DC,Volleys,90,Atlético Madrid,Uruguay
+1,J. Rodríguez,MCO,Volleys,90,Everton,Colombia
+3,R. Lewandowski,DC,Volleys,89,FC Bayern München,Poland
+3,M. Reus,MCO,Volleys,89,Borussia Dortmund,Germany
+5,L. Messi,ED,Volleys,88,FC Barcelona,Argentina
+1,L. Messi,ED,Dribbling,96,FC Barcelona,Argentina
+2,Neymar Jr,EI,Dribbling,95,Paris Saint-Germain,Brazil
+3,E. Hazard,EI,Dribbling,93,Real Madrid,Belgium
+4,Isco,MCO,Dribbling,92,Real Madrid,Spain
+4,Bernardo Silva,ED,Dribbling,92,Manchester City,Portugal
+1,Quaresma,MD,Curve,94,Vitória Guimarães,Portugal
+2,L. Messi,ED,Curve,93,FC Barcelona,Argentina
+3,H. Çalhanoğlu,MCO,Curve,92,Milan,Turkey
+4,J. Ward-Prowse,MC,Curve,91,Southampton,England
+5,G. Bale,ED,Curve,90,Tottenham Hotspur,Wales
+1,L. Messi,ED,FK Accuracy,94,FC Barcelona,Argentina
+2,Parejo,MC,FK Accuracy,93,Villarreal CF,Spain
+3,M. Pjanić,MC,FK Accuracy,92,FC Barcelona,Bosnia Herzegovina
+4,E. Bardhi,MCO,FK Accuracy,91,Levante UD,North Macedonia
+4,A. Zamorado,MCO,FK Accuracy,91,No Club,Ecuador
+1,K. De Bruyne,MCO,Long Passing,93,Manchester City,Belgium
+1,T. Kroos,MC,Long Passing,93,Real Madrid,Germany
+3,L. Messi,ED,Long Passing,91,FC Barcelona,Argentina
+3,P. Pogba,MC,Long Passing,91,Manchester United,France
+5,Parejo,MC,Long Passing,90,Villarreal CF,Spain
+1,L. Messi,ED,Ball Control,96,FC Barcelona,Argentina
+2,Neymar Jr,EI,Ball Control,95,Paris Saint-Germain,Brazil
+3,P. Dybala,MCO,Ball Control,94,Juventus,Argentina
+4,L. Insigne,EI,Ball Control,93,Napoli,Italy
+5,Cristiano Ronaldo,DC,Ball Control,92,Juventus,Portugal
+1,Adama Traoré,MD,Acceleration,97,Wolverhampton Wanderers,Spain
+2,K. Mbappé,DC,Acceleration,96,Paris Saint-Germain,France
+2,J. Doku,ED,Acceleration,96,Stade Rennais FC,Belgium
+2,M. Diaby,MI,Acceleration,96,Bayer 04 Leverkusen,France
+2,D. James,MD,Acceleration,96,Manchester United,Wales
+1,A. Chalá,LTI,Sprint Speed,96,Dijon FCO,Ecuador
+1,K. Mbappé,DC,Sprint Speed,96,Paris Saint-Germain,France
+1,A. Davies,LTI,Sprint Speed,96,FC Bayern München,Canada
+1,Adama Traoré,MD,Sprint Speed,96,Wolverhampton Wanderers,Spain
+5,L. Bailey,MCO,Sprint Speed,95,Bayer 04 Leverkusen,Jamaica
+1,Neymar Jr,EI,Agility,96,Paris Saint-Germain,Brazil
+2,J. Doku,ED,Agility,95,Stade Rennais FC,Belgium
+2,R. Fraser,MI,Agility,95,Newcastle United,Scotland
+2,F. Viáfara,LTD,Agility,95,Junior FC,Colombia
+2,Moon Seon Min,MD,Agility,95,Sangju Sangmu FC,Korea Republic
+1,Cristiano Ronaldo,DC,Reactions,95,Juventus,Portugal
+2,L. Messi,ED,Reactions,94,FC Barcelona,Argentina
+2,T. Müller,MCO,Reactions,94,FC Bayern München,Germany
+4,R. Lewandowski,DC,Reactions,93,FC Bayern München,Poland
+4,S. Mané,EI,Reactions,93,Liverpool,Senegal
+1,E. Oztumer,MCO,Balance,97,Charlton Athletic,England
+2,R. Fraser,MI,Balance,96,Newcastle United,Scotland
+3,L. Messi,ED,Balance,95,FC Barcelona,Argentina
+3,K. Holzweiler,MCO,Balance,95,Viktoria Köln,Germany
+3,T. Itō,MCO,Balance,95,Sint-Truidense VV,Japan
+1,A. Kolarov,LTI,Shot Power,95,Inter,Serbia
+2,Hulk,EI,Shot Power,94,Shanghai SIPG FC,Brazil
+2,Cristiano Ronaldo,DC,Shot Power,94,Juventus,Portugal
+4,E. Haaland,DC,Shot Power,93,Borussia Dortmund,Norway
+5,H. Kane,DC,Shot Power,91,Tottenham Hotspur,England
+1,Cristiano Ronaldo,DC,Jumping,95,Juventus,Portugal
+2,K. Diatta,MD,Jumping,94,Club Brugge KV,Senegal
+2,E. Dennis,DC,Jumping,94,Club Brugge KV,Nigeria
+2,M. Barbieri,DFC,Jumping,94,Club Tijuana,Argentina
+2,M. Saito,MCO,Jumping,94,Shonan Bellmare,Japan
+1,V. Darida,MC,Stamina,97,Hertha BSC,Czech Republic
+2,N. Kanté,MCD,Stamina,96,Chelsea,France
+3,A. Robertson,LTI,Stamina,95,Liverpool,Scotland
+3,H. Okuno,MD,Stamina,95,Cerezo Osaka,Japan
+3,J. Kimmich,MCD,Stamina,95,FC Bayern München,Germany
+1,A. Akinfenwa,DC,Strength,97,Wycombe Wanderers,England
+2,D. Dike,DC,Strength,96,Orlando City SC,United States
+3,A. Vukotić,DFC,Strength,95,Waasland-Beveren,Serbia
+3,R. Lukaku,DC,Strength,95,Inter,Belgium
+3,A. Méndez,DFC,Strength,95,Nacional de Montevideo,Uruguay
+1,L. Messi,ED,Long Shots,94,FC Barcelona,Argentina
+2,Cristiano Ronaldo,DC,Long Shots,93,Juventus,Portugal
+3,J. Rodríguez,MCO,Long Shots,92,Everton,Colombia
+4,K. De Bruyne,MCO,Long Shots,91,Manchester City,Belgium
+5,H. Son,MI,Long Shots,90,Tottenham Hotspur,Korea Republic
+1,K. Gjasula,DFC,Aggression,96,Hamburger SV,Albania
+2,B. Pearson,MCD,Aggression,95,Preston North End,England
+2,P. Pérez,MCD,Aggression,95,Newell's Old Boys,Argentina
+4,Gazzolisco,LTI,Aggression,94,Internacional,Brazil
+4,D. Erdmann,DFC,Aggression,94,TSV 1860 München,Germany
+1,N. Kanté,MCD,Interceptions,91,Chelsea,France
+1,M. Hummels,DFC,Interceptions,91,Borussia Dortmund,Germany
+3,W. Ndidi,DFC,Interceptions,90,Leicester City,Nigeria
+3,L. Bonucci,DFC,Interceptions,90,Juventus,Italy
+3,V. van Dijk,DFC,Interceptions,90,Liverpool,Netherlands
+1,Cristiano Ronaldo,DC,Positioning,95,Juventus,Portugal
+2,S. Agüero,DC,Positioning,94,Manchester City,Argentina
+2,T. Müller,MCO,Positioning,94,FC Bayern München,Germany
+2,R. Lewandowski,DC,Positioning,94,FC Bayern München,Poland
+5,L. Messi,ED,Positioning,93,FC Barcelona,Argentina
+1,L. Messi,ED,Vision,95,FC Barcelona,Argentina
+2,K. De Bruyne,MCO,Vision,94,Manchester City,Belgium
+3,Iniesta,MCO,Vision,93,Vissel Kobe,Spain
+4,David Silva,MCO,Vision,91,Real Sociedad,Spain
+5,Bruno Fernandes,MCO,Vision,90,Manchester United,Portugal
+1,M. Noble,MC,Penalties,92,West Ham United,England
+1,R. Jiménez,DC,Penalties,92,Wolverhampton Wanderers,Mexico
+1,Sergio Ramos,DFC,Penalties,92,Real Madrid,Spain
+1,Neymar Jr,EI,Penalties,92,Paris Saint-Germain,Brazil
+1,M. Kruse,MCO,Penalties,92,1. FC Union Berlin,Germany
+1,L. Messi,ED,Composure,96,FC Barcelona,Argentina
+2,Cristiano Ronaldo,DC,Composure,95,Juventus,Portugal
+3,M. Verratti,MC,Composure,94,Paris Saint-Germain,Italy
+4,Neymar Jr,EI,Composure,93,Paris Saint-Germain,Brazil
+4,Sergio Busquets,MCD,Composure,93,FC Barcelona,Spain
+1,G. Chiellini,DFC,Marking,94,Juventus,Italy
+2,V. van Dijk,DFC,Marking,93,Liverpool,Netherlands
+3,M. Škriniar,DFC,Marking,92,Inter,Slovakia
+4,K. Koulibaly,DFC,Marking,91,Napoli,Senegal
+5,C. Lenglet,DFC,Marking,90,FC Barcelona,France
+1,V. van Dijk,DFC,Standing Tackle,93,Liverpool,Netherlands
+2,I. Gueye,MCD,Standing Tackle,90,Paris Saint-Germain,Senegal
+2,G. Chiellini,DFC,Standing Tackle,90,Juventus,Italy
+2,N. Kanté,MCD,Standing Tackle,90,Chelsea,France
+5,W. Ndidi,DFC,Standing Tackle,89,Leicester City,Nigeria
+1,Sergio Ramos,DFC,Sliding Tackle,90,Real Madrid,Spain
+1,R. Nainggolan,MCD,Sliding Tackle,90,Inter,Belgium
+1,A. Wan-Bissaka,LTD,Sliding Tackle,90,Manchester United,England
+4,A. Laporte,DFC,Sliding Tackle,88,Manchester City,France
+4,G. Chiellini,DFC,Sliding Tackle,88,Juventus,Italy
+1,K. Navas,POR,GK Diving,90,Paris Saint-Germain,Costa Rica
+2,G. Donnarumma,POR,GK Diving,89,Milan,Italy
+2,H. Lloris,POR,GK Diving,89,Tottenham Hotspur,France
+4,M. ter Stegen,POR,GK Diving,88,FC Barcelona,Germany
+4,S. Handanovič,POR,GK Diving,88,Inter,Slovenia
+1,J. Oblak,POR,GK Handling,92,Atlético Madrid,Slovenia
+2,T. Courtois,POR,GK Handling,89,Real Madrid,Belgium
+3,Alisson,POR,GK Handling,88,Liverpool,Brazil
+4,M. Neuer,POR,GK Handling,87,FC Bayern München,Germany
+5,Y. Sommer,POR,GK Handling,86,Borussia Mönchengladbach,Switzerland
+1,Ederson,POR,GK Kicking,93,Manchester City,Brazil
+2,M. Neuer,POR,GK Kicking,91,FC Bayern München,Germany
+3,I. Khune,POR,GK Kicking,90,Kaizer Chiefs,South Africa
+4,M. ter Stegen,POR,GK Kicking,88,FC Barcelona,Germany
+5,A. Onana,POR,GK Kicking,87,Ajax,Cameroon
+1,G. Buffon,POR,GK Positioning,91,Juventus,Italy
+1,Alisson,POR,GK Positioning,91,Liverpool,Brazil
+3,J. Oblak,POR,GK Positioning,90,Atlético Madrid,Slovenia
+4,S. Handanovič,POR,GK Positioning,89,Inter,Slovenia
+5,M. ter Stegen,POR,GK Positioning,88,FC Barcelona,Germany
+1,M. ter Stegen,POR,GK Reflexes,90,FC Barcelona,Germany
+1,J. Oblak,POR,GK Reflexes,90,Atlético Madrid,Slovenia
+1,H. Lloris,POR,GK Reflexes,90,Tottenham Hotspur,France
+1,K. Navas,POR,GK Reflexes,90,Paris Saint-Germain,Costa Rica
+5,G. Donnarumma,POR,GK Reflexes,89,Milan,Italy
